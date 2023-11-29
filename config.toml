@@ -14,6 +14,11 @@ included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[yutubvan]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "both"
+included-patches = "'Custom branding'"
+
 [Music]
 enabled = false
 build-mode = "both"
@@ -21,6 +26,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 apkmirror-arch = "both"
 
 [YouTubePatch]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
