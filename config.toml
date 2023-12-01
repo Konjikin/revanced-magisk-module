@@ -14,7 +14,17 @@ included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[yutubP]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "Neko ReX"
+build-mode = "both"
+included-patches = "'Add splash animation' 'MaterialYou' 'Premium heading'"
+excluded-patches = "'Custom branding icon Revancify Blue'"
+
 [yutubvan]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 included-patches = "'Custom branding'"
