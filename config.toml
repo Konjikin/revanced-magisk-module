@@ -21,7 +21,7 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
 build-mode = "both"
 included-patches = "'Add splash animation' 'Premium heading'"
-excluded-patches = "'Custom branding icon YouTube' 'Custom double tap length'"
+excluded-patches = "'Custom branding icon YouTube'"
 
 [Music]
 enabled = false
