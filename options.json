@@ -1,1 +1,39 @@
-[]
+[  
+  {
+    "patchName": "Custom branding icon YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "original"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom double tap length",
+    "options": [
+      {
+        "key": "DoubleTapLengthArrays",
+        "value": "1,3,5,7,9,12,15,17,20"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "neko.app.androdog.yutub"
+      }
+    ]
+  }
+]
+        
