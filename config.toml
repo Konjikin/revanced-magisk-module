@@ -14,13 +14,14 @@ included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[YoutubeNeko]
+[YouTubeNeko]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "KitsuNeko"
+rv-brand = "inotia00 ReVanced"
 build-mode = "both"
 included-patches = "'Add splash animation' 'Premium heading'"
+excluded-patches = "'Custom branding icon YouTube' 'Custom double tap length'"
 
 [Music]
 enabled = false
