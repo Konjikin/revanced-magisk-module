@@ -7,18 +7,29 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
+enabled = false
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[YoutubeNeko]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "KitsuNeko"
+build-mode = "both"
+included-patches = "'Add splash animation' 'Premium heading'"
+
 [Music]
+enabled = false
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
 
 [Music-Extended]
+enabled = false
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -29,6 +40,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 arch = "both"
 
 [YouTube-Extended]
+enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -38,16 +50,20 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Twitter]
+enabled = false
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [Twitch]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 
 [Reddit]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Messenger]
