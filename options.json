@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "YouTube"
+      },
+      {
+        "key": "iconPath",
+        "value": "original"
+      }
+    ]
+  }
+]
+        
