@@ -13,14 +13,13 @@ included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-build-mode = "both"
-
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "rufusin/revanced-patches"
+integrations-source = "rufusin/revanced-integrations"
+rv-brand = "rufusin ReVanced"
 build-mode = "both"
-included-patches = "'Custom branding'"
+included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Force hide voice search button'"
 
 [Music]
 enabled = false
