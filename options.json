@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "patchName": "Custom branding name YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "Original"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "com.neko.yutub.androdog"
+      }
+    ]
+  }
+]
+        
