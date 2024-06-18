@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "Original"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": "Original"
+      },
+      {
+        "key": "RestoreOldSplashAnimation",
+        "value": "Original"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "com.android.yutub.neko"
+      }
+    ]
+  }
+]
+        
