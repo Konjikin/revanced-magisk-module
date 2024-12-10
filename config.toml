@@ -17,15 +17,15 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTubeNeko]
+app-name = "YouTube"
+icon-path = "youtube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "KitsuNeko"
 build-mode = "both"
 version = "19.34.42"
-included-patches = "'Custom branding'"
 excluded-patches = "'Open videos fullscreen' 'Spoof app version'"
-patcher-args = "-OappName=YouTube -OiconPath=youtube "
 
 [Music]
 enabled = false
