@@ -23,7 +23,7 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
 build-mode = "both"
 included-patches = "'MaterialYou'"
-patcher-args = "-OappIcon=YouTube -OappName=YouTube "
+patcher-args = "-OappIcon=youtube -OappName=YouTube"
 
 [Music]
 enabled = false
