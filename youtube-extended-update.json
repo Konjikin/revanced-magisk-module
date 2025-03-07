@@ -1,6 +1,6 @@
 {
-  "version": "v19.44.39 (patches: 5.4.1)",
-  "versionCode": 52,
-  "zipUrl": "https://github.com/Konjikin/revanced-magisk-module/releases/download/52/youtube-revanced-extended-magisk-v19.44.39-all.zip",
+  "version": "v19.44.39 (patches: 5.4.2)",
+  "versionCode": 55,
+  "zipUrl": "https://github.com/Konjikin/revanced-magisk-module/releases/download/55/youtube-revanced-extended-magisk-v19.44.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/Konjikin/revanced-magisk-module/update/build.md"
 }
