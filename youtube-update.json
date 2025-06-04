@@ -1,6 +1,6 @@
 {
-  "version": "v20.12.46 (patches: 5.25.0)",
-  "versionCode": 72,
-  "zipUrl": "https://github.com/Konjikin/revanced-magisk-module/releases/download/72/youtube-revanced-magisk-v20.12.46-all.zip",
+  "version": "v20.12.46 (patches: 5.26.0)",
+  "versionCode": 73,
+  "zipUrl": "https://github.com/Konjikin/revanced-magisk-module/releases/download/73/youtube-revanced-magisk-v20.12.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/Konjikin/revanced-magisk-module/update/build.md"
 }
