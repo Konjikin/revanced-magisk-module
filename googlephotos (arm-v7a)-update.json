@@ -1,6 +1,6 @@
 {
-  "version": "v7.13.0.716414472 (patches: 5.9.0)",
-  "versionCode": 48,
-  "zipUrl": "https://github.com/Konjikin/revanced-magisk-module/releases/download/48/googlephotos-revanced-magisk-v7.13.0.716414472-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/Konjikin/revanced-magisk-module/update/build.md"
+  "version": "v7.57.0.843750501 (patches 5.47.0)",
+  "versionCode": 102,
+  "zipUrl": "https://github.com/KitsuNeko2621/revanced-magisk-module/releases/download/102/googlephotos-revanced-magisk-v7.57.0.843750501-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/KitsuNeko2621/revanced-magisk-module/update/build.md"
 }

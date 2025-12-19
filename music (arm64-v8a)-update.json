@@ -1,6 +1,6 @@
 {
-  "version": "v7.29.52 (patches: 5.10.0)",
-  "versionCode": 49,
-  "zipUrl": "https://github.com/Konjikin/revanced-magisk-module/releases/download/49/music-revanced-magisk-v7.29.52-arm64-v8a.zip",
-  "changelog": "https://raw.githubusercontent.com/Konjikin/revanced-magisk-module/update/build.md"
+  "version": "v8.10.52 (patches 5.47.0)",
+  "versionCode": 102,
+  "zipUrl": "https://github.com/KitsuNeko2621/revanced-magisk-module/releases/download/102/music-revanced-magisk-v8.10.52-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/KitsuNeko2621/revanced-magisk-module/update/build.md"
 }
